@@ -11,4 +11,4 @@ Where can we begin data collection?
 
 When is a good time to collect data from educators?
 
-Why should we help contribute to public education?
+Why should we help contribute to public/private/charter education?
