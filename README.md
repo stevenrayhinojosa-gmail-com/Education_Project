@@ -5,6 +5,8 @@ What type of application can we create to lower teacher turnover?
 
 How much data can we collect from the user?
 
+How much data can we collect from Districts ?
+
 Where can we begin data collection?
 
 When is a good time to collect data from educators?
